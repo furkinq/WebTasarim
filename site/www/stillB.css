@@ -1,0 +1,39 @@
+#containerB {
+	background-color:black;
+	weight:100%;
+	height:635px;
+}
+
+.baslik p {
+	float:left;
+	list-style-type:none;
+	margin-left:50%;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}
+
+.biyografi p {
+	float:left;
+	list-style-type:none;
+	margin-left:15px;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}
+
+.guncel {
+	float:left;
+	list-style-type:none;
+	margin-left:40%;
+	margin-top:150px;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}

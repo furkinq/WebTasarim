@@ -1,0 +1,15 @@
+#container {
+	background-color:black;
+}
+
+p {
+	float:left;
+	list-style-type:none;
+	margin-left:15px;
+	margin-top:-5px;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}

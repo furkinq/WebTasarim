@@ -1,0 +1,72 @@
+#containerV {
+	background-color:black;
+	weight:100%;
+	height:100%;
+}
+
+.baslik p {
+	float:left;
+	list-style-type:none;
+	margin-left:40%;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}
+
+#video1 {
+	weight:360px;
+	height:360px;
+	margin-left:250px;
+}
+
+#vd1 {
+	float:left;
+	list-style-type:none;
+	margin-left:40%;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff	
+}
+
+#video2 {
+	weight:360px;
+	height:360px;
+	margin-left:250px
+}
+
+#vd2 {
+	float:left;
+	list-style-type:none;
+	margin-left:40%;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff	
+}
+
+#video3 {
+	weight:360px;
+	height:360px;
+	margin-left:250px	
+}
+
+#vd3 {
+	float:left;
+	list-style-type:none;
+	margin-left:40%;
+	line-height:40px;
+	font-family:'Josefin Sans', sans-serif;
+	font-weight:300;
+	font-size:20px;
+	color:#fff
+}
+
+#sayfasonu {
+	weight:100%;
+	height:50px;
+}
